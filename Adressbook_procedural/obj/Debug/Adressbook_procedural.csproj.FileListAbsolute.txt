@@ -1,0 +1,6 @@
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\bin\Debug\Adressbook_procedural.exe.config
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\bin\Debug\Adressbook_procedural.exe
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\bin\Debug\Adressbook_procedural.pdb
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\obj\Debug\Adressbook_procedural.csprojResolveAssemblyReference.cache
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\obj\Debug\Adressbook_procedural.exe
+c:\users\tord\documents\visual studio 2012\Projects\Adressbook_procedural\Adressbook_procedural\obj\Debug\Adressbook_procedural.pdb
