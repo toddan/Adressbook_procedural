@@ -19,6 +19,10 @@ namespace Adressbook_procedural
      *  Do what you want
      * */
 
+    /*
+     * Contact struct.
+     * This is the "container" of our contact data
+     * */
     struct Contact
     {
         public string firstName;
@@ -151,12 +155,16 @@ namespace Adressbook_procedural
         {
             for (int i = 0; i < INDEX; i++)
             {
-                if (Contacts[i].lastName == name)
+                if (Contacts[i].firstName == name)/* if we find a contact with the right name we return its index */
                 {
                     return i;
                 }
             }
-            return 0;
+            return 0; /* if no contact is found we return zero.
+                       * 
+                       * There is something terrebly wrong with this logic!
+                       * Maybe you could figure it out? ;)
+                       **/
         }
 
     }
