@@ -21,7 +21,10 @@ namespace Adressbook_procedural
 
     /*
      * Contact struct.
-     * This is the "container" of our contact data
+     * This is the "container" of our contact data.
+     * 
+     * Take note that the biggerst different between a struct and a class
+     * is that a struct can only hold data and can not hold any functions.
      * */
     struct Contact
     {
